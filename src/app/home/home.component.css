@@ -131,3 +131,24 @@ img.superpose {
   padding: 50px 0px;
 }
 
+#footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin: 20px auto;
+  height: 250px;
+  color: #fff;
+}
+
+#lastDiv{
+  background: #000000 ;
+  padding: 30px;
+  color: #fff;
+}
+
+li{
+  list-style: none;
+  list-style-type: none;
+}
