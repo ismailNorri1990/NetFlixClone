@@ -17,6 +17,10 @@
   text-align: center;
 }
 
+#centering{
+  text-align: center;
+}
+
 #nav-bar{
   position: relative ;
   top:20px ;
@@ -83,6 +87,11 @@ img.superpose {
   top: 25px;
   left: 30px;
 }
+#gif-netflix2{
+  position: absolute;
+  top: 60px;
+  left: 120px;
+}
 
 #text-section2 h1 {
   width: 500px;
@@ -98,3 +107,27 @@ img.superpose {
 .h2{
   font-size: 1.3em;
 }
+
+#rideau{
+  margin: auto;
+  width: 60%;
+}
+
+
+#rideau > h2,p{
+  color: #fff;
+  background-color: gray;
+  padding: 20px 40px;
+}
+
+#section5{
+  background: rgba(0, 0, 0, 1);
+  height:800px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+  padding: 50px 0px;
+}
+
